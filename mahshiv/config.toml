@@ -1,4 +1,4 @@
-baseurl = "mahshiv.github.io"
+baseurl = "https://mahshiv.github.io"
 title = "mahshiv"
 theme = "hugo-coder"
 languagecode = "en"
@@ -71,4 +71,3 @@ disqusShortname = "yourdiscussshortname"
   name = "CV"
   weight = 3
   url = "resume/"
-  
