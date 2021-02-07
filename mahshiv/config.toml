@@ -69,5 +69,6 @@ disqusShortname = "yourdiscussshortname"
   url = "about/"
 [[menu.main]]
   name = "CV"
-  weight 3
-  url = "resume/
+  weight = 3
+  url = "resume/"
+  
