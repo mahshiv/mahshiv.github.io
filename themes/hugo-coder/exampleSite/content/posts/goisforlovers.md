@@ -297,12 +297,12 @@ parameters, which are values which will be available to you in chrome.
 
 For instance, you might declare:
 
-```yaml
+<!-- ```yaml
 params:
   CopyrightHTML: "Copyright &#xA9; 2013 John Doe. All Rights Reserved."
   TwitterUser: "spf13"
-  SidebarRecentLimit: 5
-```
+  SidebarRecentLimit: 5 -->
+<!-- ``` -->
 
 Within a footer layout, you might then declare a `<footer>` which is only
 provided if the `CopyrightHTML` parameter is provided, and if it is given,
