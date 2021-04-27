@@ -1,3 +1,6 @@
 [submodule "mahshiv/themes/hugo-coder"]
 	path = mahshiv/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "assets/CV"]
+	path = assets/CV
+	url = https://github.com/mahshiv/CV
